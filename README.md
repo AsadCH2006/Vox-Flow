@@ -111,5 +111,3 @@ VoxFlow includes a customizable sidebar dashboard where you can track live syste
 Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
-
-<p align="center"><b>Built with 🔥 for the next generation of voice interfaces.</b></p>
